@@ -1,4 +1,4 @@
-=== Twitch Embedded ===
+####== Twitch Embedded ==
 Contributors: Jonathan Lindgren
 Tags: twitch, twitch tv, twitch.tv, twitch embed, twitch embedding, twitch embedded, twitch shortcodes
 Requires at least: 3.0
@@ -7,7 +7,7 @@ Stable tag: 4.x
 
 Embed Twitch.tv streams or chats on your Wordpress website with simple shortcodes.
 
-== Description ==
+####== Description ==
 
 Twitch Embedded is a simple plugin that allows you to embed Twitch.tv streams and chats on your Wordpress website.
 
@@ -24,12 +24,12 @@ Features:
 *   Set autoplay and volume options when using object, [twitch channel="CHANNEL_NAME" mode="object" autoplay="true" volume="30"]
 *   Debug code with [twitch channel="CHANNEL_NAME" debug="true"]
 
-== Installation ==
+####== Installation ==
 1. Download the zip file
 2. Go to Plugins < Upload Plugin
 3. Activate Twitch Embedded
 
-== Changelog ==
+####== Changelog ==
 
 = 1.0 =
 Initial release
