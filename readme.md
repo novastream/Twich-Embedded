@@ -1,8 +1,12 @@
 ####== Twitch Embedded ==
 Contributors: Jonathan Lindgren
+
 Tags: twitch, twitch tv, twitch.tv, twitch embed, twitch embedding, twitch embedded, twitch shortcodes
+
 Requires at least: 3.0
+
 Tested up to: 4.1.1
+
 Stable tag: 4.x
 
 Embed Twitch.tv streams or chats on your Wordpress website with simple shortcodes.
